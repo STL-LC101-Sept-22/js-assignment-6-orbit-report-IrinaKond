@@ -7,6 +7,13 @@
 	background-color: #da8a8a;
 }
 
+.odd_row {
+    background:rgb(40, 192, 192);
+}
+
+.even_row {
+    background:rgb(214, 226, 226);
+}
 table {
  color: #111;
  border-radius: 5px;
